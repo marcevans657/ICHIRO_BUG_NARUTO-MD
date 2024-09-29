@@ -1,12 +1,12 @@
-# 𝑻𝑺𝑯_𝑩𝑼𝑮_𝑮𝑶𝑲𝑼-𝑴𝑫
+# ICHIRO_BUG_NARUTO-MD
 
-**Merci de fork le repo pour plus d'encouragements**🌹
+**Merci Beaucoup de fork le repo pour plus d'encouragements**⚡
 
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <img src="https://telegra.ph/file/2c8a210bf1748e32aff84.jpg"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+🐲𝐆𝐎𝐊𝐔-𝐌𝐃🐲 ;WHATSAPP+CRASH+x+BUG+BOT;  😎+DÉVELOPPÉ+PAR+😎;   🌹+𝐌𝐑.+ 𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇+🌹" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+🌟NARUTO-MD🌟;WHATSAPP+MULTIPLE SERVICE +D+BUG+BOT;  💫+DÉVELOPPÉ+PAR+⚡;   +𝐌𝐑.+ Christian ICHORO+⚡" alt="Typing SVG" /></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -15,13 +15,13 @@
 
 ### La partie session id ou code paire n'est pas encore prête. merci de modifier (Database et settings) puis téléchargez ça en zip et deployez sur panel. rien de compliqué !!
 
-## Remarque, si la procédure du déploiement sur panel vous donne une erreur au moment de mettre votre numéro, veuillez supprimer le dossier " SESSION " au niveau de FILES. et tapez RESTART. et c'est bon.🐲
+## Remarque, si la procédure du déploiement sur panel vous donne une erreur au moment de mettre votre numéro, veuillez supprimer le dossier " SESSION " au niveau de FILES. et tapez RESTART. et c'est bon.⚡
 
 ## ⚠️ MODIFIEZ DATABASE ET SETTINGS, POUR VOS INFORMATIONS. NUMÉRO ET NOM. SINON VOUS POUVEZ LAISSER AINSI.
 
 ## DÉPLOIEMENT SUR PANEL 3EME OPTION EN BAS.
 
-### 1. <a href="https://github.com/Kevin-Tsh/TSH_BUG_GOKU-MD/fork"><img title="WEB" src="https://img.shields.io/badge/FORK GOKU-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
+### 1. <a href="https://github.com/marcevans657/ICHIRO_BUG_NARUTO-MD/fork"><img title="WEB" src="https://img.shields.io/badge/FORK NARUTO-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
 ### 2. <a href="https://parky-web-1.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
 
 ### 3. <a href='https://panel.solarhosting.cc' target="_blank"><img alt='Deployer sur Panel' src='https://img.shields.io/badge/-DEPLOYER SUR PANEL-pink?style=for-the-badge&logo=solar&logoColor=white'/></a>
@@ -32,7 +32,7 @@
 
 </br>
 
-#### COPIE ET PASSE CES COMMANDES SI TU VEUX DÉPLOYER  [🐲𝑻𝑺𝑯_𝑩𝑼𝑮_𝑮𝑶𝑲𝑼-𝑴𝑫🐲]([https://github.com/Kevin-Tsh/TSH_BUG_GOKU-MD) SUR UN TERMINAL 
+#### COPIE ET PASSE CES COMMANDES SI TU VEUX DÉPLOYER  ⚡[ICHIRO_𝑩𝑼𝑮_NARUTO-𝑴𝑫⚡]([https://github.com/marcevans657/ICHIRO_BUG_NARUTO-MD) SUR UN TERMINAL 
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
@@ -55,10 +55,10 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/type-your-username-here/TSH_BUG_GOKU-MD
+git clone https://github.com/type-your-username-here/ICHIRO_BUG_NARUTO-MD
 ```
 ```
-cd  TSH_BUG_GOKU-MD
+cd  ICHIRO_BUG_NARUTO-MD
 yarn install 
 npm start
 ```
@@ -104,7 +104,7 @@ pkg install yarn
 git clone (copie et passe le lien du repo aue tu a fork) 
 ```
 ```
-cd TSH_BUG_GOKU-MD
+cd ICHIRO_BUG_NARUTO-MD
 ```
 ```
 yarn install
@@ -130,10 +130,10 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Télécharger Libwebp](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git https://github.com/Kevin-Tsh/TSH_BUG_GOKU-MD
+> git https://github.com/marcevans657/ICHIRO_BUG_NARUTO-MD
 ```
 ```
-> cd TSH_BUG_GOKU-MD
+> cd ICHIRO_BUG_NARUTO-MD
 ```
 ```
 > yarn install
@@ -146,12 +146,12 @@ npm i -g forever && forever index.js && forever save && forever logs
 ## ```Contactez moi```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://Wa.me/+243976995779"><img src="https://img.shields.io/badge/Contact KÉVIN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://Wa.me/+243976995779"><img src="https://img.shields.io/badge/Contact Christian-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VajjpHoGZNCsyVLRRk1f"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.youtube.com/@alvinblaste...13"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@alvinblaste...13" /><br>
 <p align="center">
 <img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    
-# By 🌹MR KÉVIN TSH🌹
+# By ⚡MR.Christian ICHORO💫
  
