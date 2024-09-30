@@ -32,7 +32,7 @@ const store = makeInMemoryStore({
     })
 })
 
-let phoneNumber = "243891716833"
+let phoneNumber = "2250152857921"
 let owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 
 const pairingCode = !!phoneNumber || process.argv.includes("--pairing-code")
@@ -82,14 +82,14 @@ const {  state, saveCreds } =await useMultiFileAuthState(`./session`)
             process.exit(0)
          }
       } else {
-         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 🐲\nFor example: +243891716833 : `)))
+         phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 🌟\nFor example: +2250152857921 : `)))
          phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
 
          // Ask again when entering the wrong number
          if (!Object.keys(PHONENUMBER_MCC).some(v => phoneNumber.startsWith(v))) {
             console.log(chalk.bgBlack(chalk.redBright("Start with country code of your WhatsApp Number, Example : +243891716833")))
 
-            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 🐲\nFor example: +243891716833 : `)))
+            phoneNumber = await question(chalk.bgBlack(chalk.greenBright(`Please type your WhatsApp number 🌟\nFor example: +2250152857921 : `)))
             phoneNumber = phoneNumber.replace(/[^0-9]/g, '')
             rl.close()
          }
@@ -174,13 +174,13 @@ XeonBotInc.ev.on("connection.update",async  (s) => {
         	console.log(chalk.magenta(` `))
             console.log(chalk.yellow(`🌿Connected to => ` + JSON.stringify(XeonBotInc.user, null, 2)))
 			await delay(1999)
-            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`🐲𝑻𝑺𝑯_𝑩𝑼𝑮_𝑮𝑶𝑲𝑼-𝑴𝑫🐲`)}\n\n`))
+            console.log(chalk.yellow(`\n\n                  ${chalk.bold.blue(`🌟ICHIRO_BUG_NARUTI-MD🌟`)}\n\n`))
             console.log(chalk.cyan(`< ================================================== >`))
 	        console.log(chalk.magenta(`\n${themeemoji} YT CHANNEL: alvinblaste...13`))
-            console.log(chalk.magenta(`${themeemoji} GITHUB: Kevin-Tsh`))
+            console.log(chalk.magenta(`${themeemoji} GITHUB: Marcevans657`))
             console.log(chalk.magenta(`${themeemoji} INSTAGRAM: none `))
-            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 243891716833`))
-            console.log(chalk.magenta(`${themeemoji} CREDIT: Kevin Tsh\n`))
+            console.log(chalk.magenta(`${themeemoji} WA NUMBER: 2250152857921`))
+            console.log(chalk.magenta(`${themeemoji} CREDIT: Christian ICHORO\n`))
         }
         if (
             connection === "close" &&
