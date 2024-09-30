@@ -1,5 +1,5 @@
 {
-    "name": "TSH_BUG_GOKU-MD",
+    "name": "ICHIRO_BUG_NARUTO-MD",
     "version": "1.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Kevin Tsh",
+    "author": "Christian ICHORO",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.6",
