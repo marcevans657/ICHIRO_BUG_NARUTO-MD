@@ -11,13 +11,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "243891716833"
-global.ownername = "🌹MR KEVIN TSH🌹"
+global.ownernomer = "2250152857921"
+global.ownername = "⚡MR Christian ICHORO ⚡"
 global.ytname = "YT: alvinblaste...13"
-global.socialm = "GitHub: Kevin-Tsh"
-global.location = "Cong Kinshasa, Haut Katanga, Lubumbashi"
+global.socialm = "GitHub: Marcevans657"
+global.location = "Côte Abidjan, Toumodi, Rombo"
 
-global.ownernumber = '243891716833'  //creator number
+global.ownernumber = '225015287921'  //creator number
 global.ownername = '🌹𝐌𝐑.𝐊É𝐕𝐈𝐍 𝐓𝐒𝐇🌹' //owner name
 global.botname = '🐲⸢𝐆𝐎𝐊𝐔-𝐌𝐃⸥🐲' //name of the bot
 
