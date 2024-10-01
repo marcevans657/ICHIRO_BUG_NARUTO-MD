@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://i.postimg.cc/D00WY587/ad2aa7d48eb2d1c00ab4219dd0834088-1727557055634-0-webp.webp"/> 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+🌟NARUTO-MD🌟;WHATSAPP+ MULTI SERVICE BUG BOT ;  💫+DÉVELOPPÉ+PAR+⚡;   +𝐌𝐑.+ Christian ICHORO+⚡" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+🌟NARUTO-MD🌟;WHATSAPP+ MULTI SERVICE Crazy BUG BOT ;  💫+DÉVELOPPÉ+PAR+⚡;   +𝐌𝐑.+ Christian ICHORO+⚡" alt="Typing SVG" /></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -14,7 +14,7 @@
 
 
 ## Naruto est un BUG_BOT multi-devices conçu pour Rafraîchir vos conversations WhatsApp avec des fonction utiles et amusantes. Qu'il s'agisse de gérer des fichiers, d'interagir avec des stickers ou de faciliter la gestion de groupe, Naruto est là pour vous aider. 
-`Remarque:Si la procédure du déploiement devient compliqué vous allez vous améliorez c'est pas a un pro on apprend a être pro`⚡
+`Remarque:Si la procédure du déploiement devient compliqué contacter moi ou vous allez vous améliorez c'est pas a un pro on apprend a être pro`⚡
 
 
 ## DÉPLOIEMENT SUR PANEL OPTION EN BAS.
