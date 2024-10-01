@@ -13,13 +13,13 @@
 **Ce référentiel est repris depuis celui de `@Marcevans54`**
 
 
-### La partie session id ou code paire n'est pas encore prête. merci de modifier (Database et settings) puis téléchargez ça en zip et deployez sur panel. rien de compliqué !!
+*##Naruto est un BUG_BOT multi-devices conçu pour Rafraîchir vos conversations WhatsApp avec des fonction utiles et amusantes. Qu'il s'agisse de gérer des fichiers, d'interagir avec des stickers ou de faciliter la gestion de groupe, Naruto est là pour vous aider.
 
 ## Remarque, si la procédure du déploiement sur panel vous donne une erreur au moment de mettre votre numéro, veuillez supprimer le dossier " SESSION " au niveau de FILES. et tapez RESTART. et c'est bon.⚡
 
 ## ⚠️ MODIFIEZ DATABASE ET SETTINGS, POUR VOS INFORMATIONS. NUMÉRO ET NOM. SINON VOUS POUVEZ LAISSER AINSI.
 
-## DÉPLOIEMENT SUR PANEL 3EME OPTION EN BAS.
+## DÉPLOIEMENT SUR PANEL OPTION EN BAS.
 
 ### 1. <a href="https://github.com/marcevans657/ICHIRO_BUG_NARUTO-MD/fork"><img title="WEB" src="https://img.shields.io/badge/FORK NARUTO-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
 ### 2. <a href="https://parky-web-1.onrender.com"><img src="https://img.shields.io/badge/PAIR_CODE-green" alt="Clique ici pour avoir le Pair-Code" width="90"></a>
@@ -32,7 +32,7 @@
 
 </br>
 
-#### COPIE ET PASSE CES COMMANDES SI TU VEUX DÉPLOYER  ⚡[ICHIRO_𝑩𝑼𝑮_NARUTO-𝑴𝑫⚡]([https://github.com/marcevans657/ICHIRO_BUG_NARUTO-MD) SUR UN TERMINAL 
+#### COPIE ET PASSE CES COMMANDES SI TU VEUX DÉPLOYER  ⚡[ICHIRO_BUG_NARUTO-MD⚡]([https://github.com/marcevans657/ICHIRO_BUG_NARUTO-MD) SUR UN TERMINAL 
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
