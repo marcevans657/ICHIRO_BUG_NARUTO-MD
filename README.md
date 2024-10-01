@@ -10,7 +10,7 @@
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-**Ce référentiel est repris depuis celui de `@Jeanparker100`**
+**Ce référentiel est repris depuis celui de `@Marcevans54`**
 
 
 ### La partie session id ou code paire n'est pas encore prête. merci de modifier (Database et settings) puis téléchargez ça en zip et deployez sur panel. rien de compliqué !!
